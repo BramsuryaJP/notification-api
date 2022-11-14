@@ -6,11 +6,16 @@ const csvtojson = require('csvtojson')
 module.exports = {
 	async up(queryInterface, Sequelize) {
 		const majorWorkCsv = __dirname + '/csv/01_wokr_major.csv'
-		let majorWork = await csvtojson()
+
+		let majorWork
+
+		await csvtojson({ delimiter: ',' })
 			.fromFile(majorWorkCsv)
 			.then((jsonObj) => {
-				console.log(jsonObj)
+				majorWork = jsonObj
 			})
+
+		console.log(majorWork)
 
 		return await queryInterface.bulkInsert('work_majors', majorWork, {})
 	},
