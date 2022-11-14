@@ -1,0 +1,998 @@
+id,unitgroup_id,code,name
+1,1,11110,Legislator
+2,2,11121,Senior government official
+3,2,11122,Senior statutory board official
+4,3,11140,Senior official of political party organisation
+5,4,11150,"Senior official of employers', workers' and other economic-interest organisation"
+6,5,11160,Senior official of humanitarian and other special-interest organisation
+7,6,11201,Managing director/Chief executive officer
+8,6,11202,Company director
+9,6,11203,Chief operating officer/General Manager
+10,7,12111,Budgeting and financial accounting manager (including financial controller)
+11,7,12112,Administration manager
+12,7,12113,Audit manager
+13,8,12121,Personnel/Human resource manager
+14,8,12122,Industrial relations manager
+15,8,12123,Training manager
+16,9,12131,Policy manager
+17,9,12132,Strategic planning manager
+18,9,12133,Risk management manager
+19,10,12191,Premises and facilities maintenance manager (excluding building security manager)
+20,10,12192,Landscape manager
+21,10,12193,Cleaning operations manager
+22,10,12194,Security manager
+23,10,12195,Intellectual property manager
+24,10,12199,Other business services and administration managers n.e.c.
+25,11,12211,Sales manager
+26,11,12212,Business development manager
+27,11,12213,Regional sales manager
+28,11,12214,Merchandising/category manager
+29,11,12215,Online sales channel manager
+30,12,12221,Advertising/Public relations manager
+31,12,12222,Marketing manager
+32,13,12230,Research and development manager
+33,14,12241,Customer service manager
+34,14,12242,Call centre manager
+35,15,13100,Production manager in agriculture and fisheries
+36,16,13210,Manufacturing manager
+37,17,13230,Construction manager
+38,18,13241,Supply and distribution/Logistics/Warehousing manager
+39,18,13242,Procurement/Purchasing manager
+40,18,13243,Transport/technical operations manager (except port/shipping operations)
+41,18,13244,Postal service manager
+42,18,13245,Port/Shipping operations manager
+43,19,13291,Technical/Engineering services manager (excluding transport)
+44,19,13292,Quality control/assurance manager
+45,19,13299,Other production and operations managers n.e.c. (e.g. mining manager)
+46,20,13301,Chief information officer/Chief technology officer/Chief security officer
+47,20,13302,Software and applications manager
+48,20,13303,"Network, communications and infrastructure manager"
+49,20,13304,ICT service manager
+50,21,13410,Pre-school education manager
+51,22,13420,Health services manager
+52,23,13430,Aged care services manager
+53,24,13441,Social service manager
+54,24,13442,Volunteer manager
+55,25,13451,School principal
+56,25,13459,"Other education managers (including registrars, deans of education institutions and heads of training institutions)"
+57,26,13461,Financial services manager
+58,26,13462,Insurance services manager
+59,26,13463,Financial risk manager
+60,27,13491,"National security, civil defence and immigration managerial officer"
+61,27,13492,"Community, partnership and relations manager"
+62,27,13493,Media and broadcasting manager
+63,27,13499,"Other professional, financial, community and social services managers n.e.c."
+64,28,14110,Hotel operations/Lodging services manager
+65,29,14121,Restaurant manager
+66,29,14122,Catering manager
+67,29,14123,Food and beverage operations manager
+68,30,14201,Retail manager
+69,30,14202,Wholesale trade manager
+70,31,14310,Sports centre manager
+71,32,14321,Casino operations manager
+72,32,14322,Attractions manager
+73,32,14323,Discotheque/Karaoke/Nightclub manager
+74,32,14324,Wellness centre manager (e.g. hair/beauty/slimming/spa/manicure/massage)
+75,32,14325,Community/country club manager
+76,32,14329,Other recreation centre managers
+77,33,14330,Arts and cultural centre manager (including gallery and museum manager)
+78,34,14391,Event manager
+79,34,14392,Travel agency manager
+80,34,14399,Other services managers n.e.c.
+81,35,21110,Physicist/Astronomer
+82,36,21120,Meteorologist
+83,37,21130,Chemist
+84,38,21141,Geologist
+85,38,21142,Geophysicist
+86,38,21149,Other physical science professionals
+87,39,21211,Mathematician
+88,39,21212,Operations research analyst
+89,39,21213,Actuary
+90,40,21221,Statistician
+91,40,21222,Data scientist
+92,41,21231,Statistical officer/Data analyst
+93,41,21239,"Other statistical, mathematical and actuarial professionals"
+94,42,21311,Biologist
+95,42,21312,Zoologist
+96,42,21319,"Other biologists, botanists, zoologists and related professionals"
+97,43,21321,Horticulturist/Arborist
+98,43,21329,"Other farming, forestry and fishery advisers"
+99,44,21331,Environmental officer (environmental protection)
+100,44,21332,Environment research scientist (e.g. ecologist)
+101,44,21339,Other environmental protection and related professionals
+102,45,21341,Pharmacologist
+103,45,21342,Medical laboratory scientist
+104,45,21343,Biochemist
+105,45,21344,Physiologist
+106,45,21345,Animal scientist
+107,45,21346,Medical scientist
+108,45,21347,Clinical research professional
+109,45,21349,Other pharmacologists and related professionals
+110,46,21411,Manufacturing engineer
+111,46,21412,Production engineer
+112,46,21413,Automation engineer (including robotics engineer)
+113,46,21414,Quality control/assurance engineer
+114,46,21415,Process engineer
+115,47,21421,Civil engineer
+116,47,21422,Building construction engineer
+117,48,21430,Environmental engineer
+118,49,21441,Mechanical engineer
+119,49,21442,Industrial machinery and tools engineer
+120,49,21443,Air-conditioning/Refrigeration engineer
+121,49,21444,Port equipment engineer
+122,50,21451,Chemical engineer
+123,50,21452,Chemical engineer (petroleum)
+124,50,21453,Chemical engineer (petrochemicals)
+125,50,21454,Food and drink technologist
+126,51,21460,"Mining engineer, metallurgist and related professional"
+127,52,21471,Aeronautical engineer
+128,52,21472,Automotive engineer
+129,52,21473,Marine engineer
+130,52,21474,Naval architect
+131,52,21475,Rolling stock engineer
+132,53,21491,Biomedical engineer
+133,53,21492,Materials engineer
+134,53,21493,Industrial safety engineer
+135,53,21494,Quantity surveyor
+136,53,21495,Intellectual property engineer
+137,53,21496,Energy engineer
+138,53,21497,Optical engineer (including laser engineer)
+139,53,21498,Procurement engineer
+140,53,21499,Other engineering professionals n.e.c.
+141,54,21511,Electrical engineer
+142,54,21512,Power generation and distribution engineer
+143,54,21513,Lift engineer
+144,55,21521,Electronics engineer
+145,55,21522,Computer engineer
+146,55,21523,Semi-conductor engineer
+147,55,21524,Audio and video equipment engineer
+148,55,21525,Instrumentation engineer
+149,55,21526,Embedded systems engineer (including port systems engineer)
+150,56,21531,Media and broadcasting engineer
+151,56,21532,Telecommunications engineer
+152,57,21610,Building architect
+153,58,21621,Landscape architect
+154,58,21622,Landscape designer
+155,59,21631,Fashion designer
+156,59,21632,Product and industrial designer
+157,60,21641,Urban planner
+158,60,21649,Other related planners (e.g. traffic planner)
+159,61,21651,Land surveyor
+160,61,21652,Hydrographic surveyor
+161,61,21659,Other surveyors and cartographers
+162,62,21661,Graphic designer
+163,62,21662,Multimedia (including games) designer
+164,62,21663,Multimedia artist and animator
+165,62,21664,Interaction designer
+166,62,21669,Other graphic and multimedia designers and artists
+167,63,21670,Service designer
+168,64,21711,Chief engineer/Second engineer (ship)
+169,64,21712,Marine superintendent (engineer)
+170,64,21713,Ship captain / Chief mate
+171,64,21714,Marine superintendent
+172,65,21721,Commercial airline pilot
+173,65,21722,Aircraft pilot (except commercial airline and air force)
+174,65,21723,Flying instructor (except air force)
+175,65,21724,Flight engineer
+176,65,21729,Other aircraft pilots and related associate professionals
+177,66,22110,General practitioner/physician
+178,67,22121,Cardiologist
+179,67,22122,Dermatologist
+180,67,22123,Gastroenterologist
+181,67,22124,Internal medicine physician
+182,67,22125,Medical oncologist
+183,67,22126,Paediatrician
+184,67,22127,Respiratory physician
+185,67,22128,Psychiatrist
+186,67,22129,"Other specialist medical practitioners (medical) (e.g. endocrinologist, geriatrician, haematologist, infectious diseases physician, neurologist, nuclear medicine physician, rehabilitation physician, renal physician, rheumatologist)"
+187,68,22131,General surgeon
+188,68,22132,Cardiothoracic surgeon
+189,68,22133,Hand surgeon
+190,68,22134,Neurosurgeon
+191,68,22135,Orthopaedic surgeon
+192,68,22136,Paediatric surgeon
+193,68,22137,Plastic surgeon
+194,68,22138,Urologist
+195,68,22139,Other specialist medical practitioners (surgical)
+196,69,22141,Anaesthesiologist
+197,69,22142,Diagnostic radiologist
+198,69,22143,Emergency physician
+199,69,22144,Obstetrician/Gynaecologist
+200,69,22145,Ophthalmologist
+201,69,22146,Pathologist
+202,69,22147,Public health physician
+203,69,22148,"Otorhinolaryngologist/Ear, nose, throat (ENT) specialist"
+204,70,22150,"Other specialist medical practitioner (other specialisations) (e.g. occupational physician, radiation oncologist)"
+205,71,22200,"Registered nurse and other nursing professionals (e.g. clinical nurse, nurse educator, excluding enrolled nurse)"
+206,72,22301,Traditional Chinese medicine practitioner
+207,72,22302,Traditional Chinese medicine acupuncturist
+208,73,22500,Veterinarian
+209,74,22611,General dental practitioner
+210,74,22612,Specialised dentist (e.g. orthodontist)
+211,75,22621,Pharmacist (patient care)
+212,75,22629,Other pharmacists
+213,76,22631,Occupational health and safety professional
+214,76,22632,Environmental officer (public health)
+215,76,22639,Other environmental and occupational health and hygiene professionals
+216,77,22640,Physiotherapist
+217,78,22651,Dietitian
+218,78,22652,Nutritionist
+219,79,22661,Audiologist
+220,79,22662,Speech therapist
+221,80,22670,Optometrist
+222,81,22680,Occupational therapist
+223,82,22691,Chiropractor
+224,82,22692,Podiatrist
+225,82,22693,Medical diagnostic radiographer
+226,82,22694,Radiation therapist
+227,82,22699,Other health professionals n.e.c.
+228,83,23101,University lecturer
+229,83,23102,Polytechnic lecturer
+230,83,23103,Teaching assistant/Tutor in university
+231,83,23109,"Other university, polytechnic and higher education teachers"
+232,84,23200,Junior college and pre-university teacher (including integrated programme year 5-6 teacher)
+233,85,23300,Technical/Vocational/Commercial education institute teacher and trainer
+234,86,23400,Secondary school teacher (including integrated programme year 1-4 teacher)
+235,87,23500,Primary school teacher
+236,88,23611,Education methods adviser
+237,88,23612,Instructional designer and technologist
+238,88,23619,Other education methods specialists
+239,89,23621,Teacher of the visually impaired
+240,89,23622,Early intervention teacher for infants and children
+241,89,23629,Other special education teachers
+242,90,23690,Other teaching professional n.e.c.
+243,91,24111,Accountant (excluding tax accountant)
+244,91,24112,Auditor (accounting)
+245,91,24113,Tax accountant
+246,92,24121,Financial/Investment adviser (e.g. relationship manager)
+247,92,24122,Business valuer
+248,93,24131,"Financial analyst (e.g. equities analyst, credit analyst, investment research analyst)"
+249,93,24132,Compliance officer/Risk analyst (financial)
+250,93,24133,Fund/Portfolio manager (including asset allocator)
+251,93,24134,Treasury manager
+252,93,24135,Financial product structurer
+253,93,24139,Other financial analysts and related professionals
+254,94,24141,Securities and finance dealer
+255,94,24142,Foreign exchange dealer
+256,94,24143,Financial derivatives dealer
+257,94,24149,Other finance dealers
+258,95,24151,Securities and finance broker
+259,95,24152,Foreign exchange broker
+260,95,24153,Financial derivatives broker
+261,95,24154,Commodities and freight derivatives broker
+262,95,24159,Other finance brokers
+263,96,24160,Insurance underwriter
+264,97,24211,Management consultant
+265,97,24212,Business consultant
+266,97,24213,Business and financial project management professional
+267,98,24220,Policy administration professional (e.g. policy analyst)
+268,99,24231,Human resource consultant (excluding executive search consultant)
+269,99,24232,Executive search consultant
+270,99,24233,Personnel/Human resource officer
+271,99,24234,Industrial relations officer
+272,100,24240,Training and staff development professional
+273,101,24251,Intellectual property agent
+274,101,24252,Intellectual property examiner
+275,102,24291,Research officer (non-statistical)
+276,102,24299,Other administration professionals n.e.c.
+277,103,24311,Creative advertising professional
+278,103,24312,Market research professional
+279,103,24313,Marketing strategy/planning professional
+280,103,24314,"Digital marketing professional (e.g. online, social media, e-commerce marketing professional)"
+281,103,24315,Revenue specialist
+282,104,24320,Public relations/Corporate communications professional
+283,105,24331,Technical sales professional
+284,105,24332,Medical and pharmaceutical products sales professional
+285,105,24333,ICT sales and services professional
+286,105,24334,Sales professionals (institutional sales of financial products)
+287,105,24339,Other specialised goods sales professionals
+288,106,24351,Commodities trader (excluding oil and bunker)
+289,106,24352,Oil and bunker trader
+290,106,24353,Ship charterer
+291,107,24361,Trade broker
+292,107,24362,Ship broker (e.g. charter or sales & purchase)
+293,108,25111,Systems designer/analyst
+294,108,25112,ICT business process consultant/business analyst
+295,108,25113,Enterprise/Solution architect
+296,109,25121,Software developer
+297,109,25122,Web and mobile applications developer
+298,109,25123,Multimedia (including games) developer
+299,110,25140,Applications/Systems programmer
+300,111,25151,ICT quality assurance specialist
+301,111,25152,ICT auditor
+302,112,25190,Software and applications developer and analyst n.e.c.
+303,113,25211,Database administrator
+304,113,25212,Database architect
+305,114,25220,"Network, servers and computer systems administrator"
+306,115,25231,Cloud specialist
+307,115,25232,IT infrastructure specialist
+308,115,25239,"Other computer network, infrastructure and platform professionals"
+309,116,25241,Cyber risk specialist
+310,116,25242,Penetration testing specialist
+311,116,25243,Security operations specialist
+312,116,25244,Digital forensics specialist
+313,116,25245,Cybersecurity architect
+314,116,25249,Other cybersecurity professionals
+315,117,25291,Data centre engineer
+316,117,25299,Database and network professionals n.e.c.
+317,118,26111,Advocate/Solicitor (practising)
+318,118,26112,"In-house legal counsel (except judiciary, ministries and statutory boards)"
+319,118,26119,"Other lawyers (e.g. prosecutors, legal counsel in ministries and statutory boards)"
+320,119,26120,Judge (including registrar in judiciary)
+321,120,26191,Arbitrator and Mediator
+322,120,26199,Other legal professionals n.e.c.
+323,121,26211,Archivist
+324,121,26212,Curator
+325,121,26213,Conservator
+326,122,26221,Librarian
+327,122,26229,Other information professionals
+328,123,26310,Economist
+329,124,26321,Sociologist and Anthropologist
+330,124,26322,Social science researcher
+331,125,26331,Political scientist
+332,125,26339,Other social science professionals (e.g. philosopher)
+333,126,26341,Clinical psychologist
+334,126,26342,Educational psychologist
+335,126,26343,Industrial and organisational psychologist
+336,126,26349,Other psychologists
+337,127,26351,Social worker (general)
+338,127,26352,Youth work professional
+339,127,26353,Medical social worker
+340,127,26359,Other social service professionals
+341,128,26361,Minister of religion
+342,128,26369,Other religious professionals
+343,129,26371,Counsellor (rehabilitation)
+344,129,26372,Counsellor (drugs and alcohol)
+345,129,26373,Counsellor (family)
+346,129,26374,School counsellor
+347,129,26375,Career coach (counselling)
+348,129,26379,Other counselling professionals
+349,130,26411,Author
+350,130,26412,Script writer and editor
+351,130,26413,Content writer
+352,130,26414,Technical writer
+353,130,26415,Book editor
+354,130,26419,Other authors and related writers
+355,131,26421,Journalist
+356,131,26422,Editor (news and periodicals)
+357,132,26431,Translator
+358,132,26432,Interpreter
+359,133,26511,Painter
+360,133,26519,Other visual artists
+361,134,26521,Instrumentalist
+362,134,26522,Composer/Orchestrator
+363,134,26523,Conductor/Director of orchestra/band/choir
+364,134,26524,Singer
+365,134,26529,"Other musicians, composers and singers"
+366,135,26530,Dancer and Choreographer
+367,136,26541,"Producer (stage, film, television, game, commercial, video and radio)"
+368,136,26542,"Director (stage, film, television, game, commercial, video and radio)"
+369,136,26543,"Artistic director (stage, film, television, game and radio)"
+370,136,26544,"Editor (radio, television and video)"
+371,136,26549,"Other film, stage and related directors and producers"
+372,137,26550,Actor
+373,138,26561,Radio and television presenter
+374,138,26569,Other radio and television presenters and related professionals
+375,139,31001,Assistant civil and structural engineer
+376,139,31002,Assistant electrical engineer
+377,139,31003,Assistant electronics engineer
+378,139,31004,Assistant mechanical engineer
+379,139,31005,Assistant chemical engineer
+380,139,31006,Assistant manufacturing engineer
+381,139,31009,Other assistant engineers
+382,140,31111,Chemistry technician
+383,140,31112,Physics technician
+384,140,31119,Other chemical and physical science technicians
+385,141,31121,Civil Engineering Technicians
+386,141,31122,Building technician
+387,141,31123,Land surveying technician
+388,141,31124,Resident technical officer
+389,141,31129,Other civil engineering and related technicians
+390,142,31131,Electrical engineering technician
+391,142,31132,Lift technician
+392,143,31141,Electronics engineering technician
+393,143,31142,Semi-conductor technician
+394,143,31143,Audio and video equipment technician
+395,143,31144,Instrumentation technician
+396,144,31151,Mechanical engineering technician
+397,144,31152,Air-conditioning/Refrigeration engineering technician
+398,144,31153,Machining/Tooling technician
+399,145,31161,Chemical engineering technician
+400,145,31162,Chemical engineering technician (petroleum and natural gas)
+401,145,31163,Chemical engineering technician (petrochemicals)
+402,145,31164,Food science technician
+403,146,31171,Manufacturing engineering technician
+404,146,31172,Production engineering technician
+405,146,31173,Process engineering technician
+406,146,31174,Automation technician
+407,146,31175,Quality assurance technician
+408,147,31181,Mechanical draughtsman
+409,147,31182,Electrical/Electronics draughtsman
+410,147,31183,Civil/Structural engineering draughtsman
+411,147,31184,Architectural draughtsman
+412,147,31185,Marine draughtsman
+413,147,31189,Other draughtsmen (e.g. cartographical draughtsman)
+414,148,31211,Aeronautical engineering technician
+415,148,31212,Automotive engineering technician
+416,148,31213,Marine surveyor (ship and nautical)
+417,148,31214,Rolling stock engineering technician
+418,149,31291,Mechatronics technician
+419,149,31292,Metallurgical technician
+420,149,31293,Precision optics technician
+421,149,31294,Quantity surveying technician
+422,149,31295,Airport maintenance technician
+423,149,31299,Other physical and engineering science technicians n.e.c.
+424,150,31310,Power generating plant operator
+425,151,31321,Stationary engine operator
+426,151,31322,Compressor operator
+427,151,31323,Pumping station operator
+428,151,31324,Water treatment machine operator (waterworks)
+429,151,31325,Refrigeration system operator
+430,151,31329,Other incinerator and water treatment plant and related machine operators
+431,152,31331,Chemical processing and chemical products plant controller
+432,152,31332,Pharmaceutical products machine controller
+433,153,31341,Petroleum and natural gas refining plant operator
+434,153,31342,Cylinder filler/tester (compressed and liquefied gases)
+435,154,31350,Metal production process controller
+436,155,31391,Remote crane operator
+437,155,31392,Automated assembly line/Industrial robot operator
+438,155,31399,Other process control technicians n.e.c.
+439,156,31411,Biological technician
+440,156,31412,Clinical research coordinator
+441,156,31419,Other life science technicians
+442,157,31421,Horticultural technician (including irrigation specialist)
+443,157,31422,Plant tissue culture technician
+444,157,31423,Farming technician (animal production)
+445,158,31510,"Marine engineering officer (including third, fourth and fifth engineer)"
+446,159,31521,"Ship's deck navigating officer (including second, third and fourth mate)"
+447,159,31522,Harbour pilot
+448,159,31529,Other ships' deck officers and pilots
+449,160,31540,Air traffic controller
+450,161,31560,Sea traffic controller
+451,162,31571,Air transport service supervisor
+452,162,31572,Train service supervisor
+453,162,31573,Road transport supervisor
+454,162,31574,Port/Shipping operations supervisor (including post-fixture and planner)
+455,162,31579,Other transport operations supervisors
+456,163,31591,Port master/Dockmaster
+457,163,31592,Port captain
+458,163,31593,Flight operations officer
+459,163,31594,Air cargo officer
+460,163,31595,Load control officer (aircraft)
+461,163,31596,Train operations officer
+462,163,31597,Road transport operations officer
+463,163,31599,Other transport controllers and related workers n.e.c.
+464,164,31601,Premises and facilities maintenance officer
+465,164,31602,Landscape operations officer
+466,164,31603,Parks officer
+467,165,31711,Fire and safety inspector
+468,165,31719,Other building and fire inspectors
+469,166,31720,"Safety inspector (vehicles, processes and products)"
+470,167,32111,Sonographer
+471,167,32112,Medical X-ray technician
+472,167,32119,"Other medical imaging, therapeutic equipment technicians and related associate professionals"
+473,168,32120,Medical and pathology laboratory technician
+474,169,32130,Pharmacy technician
+475,170,32141,Prosthetist and orthotist
+476,170,32142,Prosthetic and orthotic technician
+477,170,32143,Dental technician
+478,171,32200,Enrolled/Assistant nurse (excluding registered nurse)
+479,172,32300,Traditional and complementary medicine associate professional (e.g. homeopath and naturopath)
+480,173,32400,Veterinary technician/assistant
+481,174,32510,Oral health therapist (e.g. dental therapists and dental hygienists)
+482,175,32530,Community health worker
+483,176,32540,Opticians
+484,177,32551,Massage therapist
+485,177,32559,Other physiotherapy technicians and related associated professionals
+486,178,32571,Environmental inspector (environmental public health)
+487,178,32572,Occupational health and safety inspector
+488,179,32591,Paramedic
+489,179,32599,Other health associate professionals n.e.c.
+490,180,33121,Financial markets back office administrator
+491,180,33129,Other credit and loans officers
+492,181,33131,Assistant accountant
+493,181,33132,Audit associate professional
+494,181,33133,Tax associate professional
+495,182,33151,Appraiser/Valuer (excluding intangible asset valuer)
+496,182,33152,Assessor
+497,182,33153,Intangible asset valuer (e.g. Intellectual property valuation analyst)
+498,183,33211,Insurance sales agent/broker (including independent financial planner)
+499,183,33219,Other insurance representatives and related associate professionals
+500,184,33221,Business development executive
+501,184,33222,After sales adviser/Client account service executive
+502,184,33223,Marketing and sales executive (food & beverage services)
+503,184,33224,Online sales channel executive
+504,184,33225,Merchandising/Category executive
+505,184,33229,Other commercial and marketing sales executives
+506,185,33231,Buyer
+507,185,33232,Purchasing agent
+508,186,33291,Intellectual property brokers and transaction specialist
+509,186,33299,Sales and related associate professionals n.e.c.
+510,187,33311,Clearing and forwarding agent
+511,187,33312,Shipping agent/Boarding officer
+512,187,33313,Freight inspector
+513,188,33320,Exhibition/Conference/Event planner (including wedding planner/coordinator)
+514,189,33330,Employment agent/Labour contractor
+515,190,33340,Real estate agent
+516,191,33391,Auctioneer
+517,191,33392,Advertising salesman
+518,191,33393,International market agent/representative (e.g. junket operator)
+519,191,33394,Safety and security consultant
+520,191,33399,"Other business services agents n.e.c. (e.g. sports agent, artiste agent)"
+521,192,33461,Logistics/production planner
+522,,33462,Maintenance planner
+523,193,33491,Management executive
+524,,33492,Operations officer (except transport operations)
+525,,33493,Crewing executive (ship)
+526,,33499,Other administrative and related associate professionals n.e.c.
+527,194,33510,Customs/Immigration officer
+528,195,33551,Police inspector
+529,,33552,Auxiliary police officer supervisor
+530,196,33591,Government tax and excise official
+531,,33592,Government social benefits official
+532,,33593,Government licensing official
+533,,33599,Other government associate professionals n.e.c.
+534,197,22611,Air transport equipment project executive
+535,,22612,Rail transport equipment project executive
+536,,22613,Road transport equipment project executive
+537,,22614,Water transport equipment project executive
+538,,22619,Other transport equipment project executives
+539,198,34110,Legal associate professional (e.g. paralegal)
+540,199,34121,Youth work associate
+541,,34122,Social work associate
+542,,34123,Volunteer executive
+543,200,34210,Athlete/Sportsman
+544,201,34221,Sports coach
+545,,34222,Martial arts instructor
+546,,34223,Physical fitness instructor (including yoga instructor and aerobics instructor)
+547,,34224,Sports official
+548,,34229,Other related instructors and associate professionals (e.g. adventure training instructor and scuba diving instructor)
+549,202,34310,Photographer
+550,203,34321,Interior designer
+551,,34322,"Decorator and related associate professional (e.g. window dresser, set designer)"
+552,,34323,Visual merchandiser
+553,204,34331,Library officer
+554,,34332,"Gallery, museum and related technician"
+555,205,34341,Chef
+556,,34342,Kitchen operations head/supervisor
+557,,34343,Pastry Chef
+558,206,34391,Tattooist
+559,,34399,Other artistic and cultural associate professionals n.e.c.
+560,207,34401,Disc jockey
+561,,34409,Other creative and performing arts associate professionals
+562,208,35110,Computer systems operator
+563,209,35121,IT Infrastructure technician
+564,,35122,IT security technician
+565,,35123,IT support technician (including IT user helpdesk technician)
+566,,35129,Other computer technicians
+567,210,35140,Website administrator/Webmaster
+568,211,35211,Media and broadcasting operations technician
+569,,35212,Video camera operator
+570,,35213,Television/Motion picture camera operator
+571,,35214,Radio and television studio equipment operator
+572,,35215,Sound engineering technician
+573,,35219,Other broadcasting technicians and audio-visual operators (e.g. microphone operator)
+574,212,35220,Telecommunications technician
+575,213,35231,Telecommunications service supervisor
+576,,35232,Radio-telephone operator (land-based)
+577,,35239,Other telecommunications equipment operators
+578,214,35290,Optical and electronic equipment operator n.e.c.
+579,215,36100,Pre-primary education teacher
+580,216,36201,Language instructor (extracurriculum)
+581,,36202,Art and craft instructor (extracurriculum)
+582,,36203,Information technology trainer (extracurriculum)
+583,,36204,Music instructor (extracurriculum)
+584,,36205,Dance instructor (extracurriculum)
+585,,36206,Speech and drama instructor (extracurriculum)
+586,,36209,Other extracurriculum instructors
+587,217,36910,Private tutor (academic)
+588,218,36991,Relief teacher
+589,,36999,Other teaching associate professionals n.e.c.
+590,219,39910,Non-ordained religious associate professional
+591,220,40000,Office supervisor
+592,221,41101,Office clerk (including filing and copying)
+593,,41102,Personnel/Human resource clerk
+594,,41109,Other administrative clerks (e.g. public relations clerk)
+595,222,41201,Secretary
+596,,41202,Verbatim reporter
+597,223,41310,Typists and word processing operator
+598,224,41320,Data entry clerk
+599,225,42111,Bank teller
+600,,42112,Postal service counter clerk
+601,,42113,Money changer
+602,,42119,Other tellers and counter clerks
+603,226,42131,Pawnbroker
+604,,42132,Moneylender
+605,227,42141,Bill collector
+606,,42149,Other bill collectors and related workers
+607,228,42210,Travel consultant/Reservation executive
+608,229,42230,Telephone operator
+609,230,42241,Receptionist (general)
+610,,42242,Hotel receptionist (including hotel reservation and front desk clerk)
+611,,42243,Medical/Dental receptionist
+612,,42244,Passenger services agent
+613,,42245,Customer service officer/clerk
+614,,42246,Contact centre information clerk
+615,,42247,Hotel executive (including hotel reservation and front desk executive)
+616,,42249,Other receptionists and information clerks
+617,231,42290,Client information clerk n.e.c.
+618,232,43111,Bookkeeper
+619,,43112,Ledger and accounts clerk
+620,,43113,Audit clerk
+621,,43114,Payroll/Wages clerk
+622,,43115,Billing clerk
+623,,43116,Procurement/purchasing clerk
+624,,43119,Other accounting clerks (e.g. cost clerk)
+625,233,43121,Bank operations clerk
+626,,43122,Insurance/Underwriting clerk
+627,,43123,Securities clerk
+628,,43129,Other finance and insurance clerks (e.g. credit clerk)
+629,234,43141,Statistical clerk
+630,,43142,Enumerator/Market research interviewer
+631,235,43151,Data processing control clerk
+632,,43159,Other computer operations clerks
+633,236,43211,Stock records clerk
+634,,43212,Storekeeper
+635,,43219,Other stock clerks
+636,237,43221,Material planning clerk
+637,,43222,Production planning clerk
+638,,43229,Other production clerks
+639,238,43231,Shipping clerk
+640,,43232,Land transport clerk
+641,,43233,Air transport clerk
+642,,43234,Other transport clerks
+643,239,44110,Library clerk
+644,240,44121,Postal service supervisor
+645,,44122,Postman
+646,,44123,Process server
+647,,44124,Other mail distribution workers (e.g. mail sorter)
+648,241,44170,Legal clerk
+649,242,44191,Proofreading clerk
+650,,44199,Other clerical support workers n.e.c.
+651,243,51111,Chief steward
+652,,51112,Cabin attendant/steward
+653,244,51121,Rail station service assistant
+654,,51122,Ticket inspector
+655,,51129,Other transport service inspectors and related workers
+656,245,51131,Tour guide
+657,,51132,Attractions guide
+658,246,51201,Cook (e.g. commis cook 2/3)
+659,,51202,"Senior cook (e.g. station chef, commis cook 1, station cook)"
+660,247,51311,Captain waiter/Waiter supervisor
+661,,51312,Waiter
+662,,51313,Sommelier
+663,248,51321,Bartender/Mixologist
+664,,51322,Barista
+665,249,51330,Bar/Lounge hostess
+666,250,51390,Waiter and bartender n.e.c. (e.g. food checker (catering services))
+667,251,51411,Hair stylist/Hairdresser
+668,,51412,Barber
+669,,51419,Other hair care workers (e.g. hair therapist/consultant)
+670,252,51421,Beautician
+671,,51422,Manicurist
+672,,51423,"Make-up artist (stage, film and studio)"
+673,253,51491,Masseur (non-medical) (including foot reflexologist)
+674,,51492,Slimming consultant
+675,,51499,Other wellness related workers n.e.c.
+676,254,51501,Housekeeper (hotels and other establishments)
+677,,51502,House steward
+678,,51503,Housekeeping matron
+679,,51504,Head butler (hotels and other establishments)
+680,,51505,Butler (hotels and other establishments)
+681,,51509,Other housekeepers and related workers
+682,255,51701,"Gaming supervisor (e.g. pit manager/supervisor, slot manager/supervisor and casino shift manager/supervisor)"
+683,,51702,Bookmaker/Croupier/Casino dealer and related gaming worker
+684,256,51910,Astrologer/Fortune teller and related worker
+685,257,51931,Undertaker
+686,,51932,Embalmer
+687,258,51941,Pet groomer
+688,,51942,"Keeper/Trainer in zoological, bird and aquatic parks"
+689,,51943,Horse trainer
+690,,51944,Dog trainer
+691,,51949,Other animal/bird keepers and animal care workers
+692,259,51950,Driving instructor/tester
+693,260,51991,Social escort
+694,,51999,Other personal service workers n.e.c.
+695,261,52110,Hawker/Stall holder (excluding prepared food or drinks)
+696,262,52120,Hawker/Stall holder (prepared food or drinks)
+697,263,52130,Newsvendor
+698,264,52190,Other stall sales worker
+699,265,52201,Sales supervisor
+700,,52202,Shop sales assistant
+701,266,52301,Cage/Count supervisor
+702,,52302,Cashier (general)
+703,,52303,Office cashier
+704,,52309,"Other cashiers, ticket and related clerks"
+705,267,52411,Fashion model
+706,,52419,Other models (e.g. artist's model)
+707,268,52421,Sales demonstrator
+708,,52422,Salesperson (door-to-door)
+709,269,52440,Telemarketer
+710,270,52491,Petrol station attendant
+711,,52492,Food service counter attendant
+712,,52499,Sales workers n.e.c. (e.g. ship chandler)
+713,271,53111,Babysitter/Infant care-giver
+714,,53112,Confinement nanny
+715,,53113,Child/After school care centre worker
+716,,53114,Child/Youth residential care assistant
+717,,53115,Educarer
+718,272,53120,Teacher aide
+719,273,53201,Healthcare assistant (e.g. therapy aide/assistant)
+720,,53202,Nursing aide/assistant
+721,,53203,Dental aide/assistant
+722,,53209,"Other personal care workers (e.g. old folks' home, nursing home, home care)"
+723,274,54110,Fire-fighting and rescue officer
+724,275,54121,Police officer
+725,,54122,Narcotics officer
+726,,54123,Auxiliary police officer
+727,276,54130,Prison officer
+728,277,54141,Senior security supervisor
+729,,54142,Security supervisor
+730,,54143,Senior private security officer
+731,,54144,Private security officer
+732,278,54150,Lifeguard
+733,279,54191,Private investigator
+734,,54192,Industrial investigator
+735,,54193,Insurance investigator
+736,,54194,Park ranger
+737,,54199,Other protective services and related workers n.e.c.
+738,280,59000,Service worker n.e.c.
+739,281,61110,Vegetable farm worker
+740,282,61131,Landscape and plant nursery supervisor
+741,,61132,Plant nursery worker
+742,,61133,Gardeners and horticultural worker
+743,283,61210,Livestock/Dairy farm worker
+744,284,61221,Poultry farm worker
+745,,61222,Poultry inseminator
+746,285,61900,Agricultural worker n.e.c.
+747,286,62211,Fish/Prawn farm worker
+748,,62212,Aquarium fish farm worker
+749,,62219,Other aquatic life cultivation workers (e.g. oyster farm worker)
+750,287,62220,Coastal waters/Deep sea fishery worker
+751,288,71000,Supervisor/General foreman (building and related trades)
+752,289,71120,Bricklayer/Blocklayer
+753,290,71130,"Stone cutter, splitter, carver and stonemason"
+754,291,71141,Concrete form worker
+755,,71142,Cement finisher/Screeder
+756,,71149,"Other concrete placers, concrete finishers and related workers"
+757,292,71151,Carpenter
+758,,71152,Joiner
+759,293,71191,Scaffolder
+760,,71192,Cladding/Curtain wall erector
+761,,71199,Other building frame and related trades workers n.e.c. (e.g. steeplejack)
+762,294,71210,Roofer
+763,295,71220,Floor/Wall tiler
+764,296,71230,Plasterer
+765,297,71241,Refrigeration/Air-conditioning equipment insulator
+766,,71242,Boiler/Pipe insulator
+767,,71249,Other insulation workers
+768,298,71250,Glazier
+769,299,71261,Plumber
+770,,71262,Pipe fitter
+771,,71263,Pipe/Drain layer
+772,300,71271,Air-conditioning/Refrigeration equipment mechanic
+773,,71272,Air-conditioning/Refrigeration plant installer
+774,301,71290,Building finisher and related trades worker n.e.c.
+775,302,71311,Building painter
+776,,71312,Wall/Ceiling paperhanger
+777,303,71321,Structural steel/Ship painter
+778,,71322,Motor vehicle spray painter
+779,,71323,Sign painter
+780,,71324,"Spray painter (except ships, motor vehicles and signs)"
+781,,71329,Other painters and related workers
+782,304,71331,Building maintenance worker
+783,,71332,Building structure cleaner and related worker
+784,305,72000,"Supervisor/General foreman (metal, machinery and related trades)"
+785,306,72110,Metal moulder and coremaker
+786,307,72120,Welder and flame cutter
+787,308,72130,Sheet metal worker
+788,309,72140,Structural metal preparer and erector
+789,310,72150,Rigger and cable splicer
+790,311,72210,"Blacksmith, hammersmith and forging-press worker"
+791,312,72221,Tool and die maker
+792,,72222,Locksmith
+793,,72229,Other toolmakers and related workers
+794,313,72240,"Metal polisher, wheel grinder and tool sharpener"
+795,314,72310,Automotive mechanic
+796,315,72320,Aircraft engine mechanic and repairer
+797,316,72330,Rolling stock mechanic
+798,317,72340,Bicycle and related repairer
+799,318,72350,Marine engine mechanic and repairer
+800,319,72391,Machinery mechanic
+801,,72392,Industrial/Office machinery mechanic
+802,,72399,Other machinery mechanics and repairers n.e.c. (e.g. agricultural machinery mechanic)
+803,320,73000,"Supervisor/General foreman (precision, handicraft, printing and related trades)"
+804,321,73111,Watch and clock assembler/repairer
+805,,73112,Optical instrument maker/repairer
+806,,73113,Medical device assembler/repairer
+807,,73119,Other precision instrument makers and repairers
+808,322,73120,Musical instrument maker/repairer/tuner
+809,323,73130,Jewellery and precious metal worker
+810,324,73140,Potter and related worker
+811,325,73150,"Glass maker, cutter, grinder and finisher"
+812,326,73160,"Sign writer, decorative painter, engraver and etcher"
+813,327,73210,Pre-press trades worker
+814,328,73220,Printer
+815,329,74001,Lift supervisor
+816,,74002,"Supervisor/General foreman (electrical and electronic trades, excluding lift)"
+817,330,74110,Electrician
+818,331,74121,Electrical fitter
+819,,74122,"Electrical lift, escalator and related equipment fitter"
+820,,74123,Electrical household appliance repairer
+821,332,74131,Electrical line installer
+822,,74132,Electric cable jointer
+823,,74133,Underground electrical line installer and repairer
+824,333,74211,Electronics fitter
+825,,74212,Consumer audio and video equipment mechanic
+826,334,74221,"Radio, television and radar broadcasting/transmitting equipment fitter"
+827,,74222,Computer and related electronic equipment mechanic
+828,,74223,Telecommunications lineman
+829,,74224,Telecommunications installer/servicer
+830,335,75000,"Supervisor/General foreman (food processing, woodworking, garment, leather and related trades)"
+831,336,75110,"Butcher, fishmonger and related food preparer"
+832,337,75121,Baker
+833,,75122,Pastry and confectionery maker
+834,338,75150,Food and beverage taster and grader
+835,339,75190,Food processing and related trades worker n.e.c. (e.g. fruit pickler)
+836,340,75210,Wood treater
+837,341,75220,Cabinet maker and wood related trades worker
+838,342,75290,Furniture maker and related trades worker n.e.c.
+839,343,75310,Tailor/Dressmaker
+840,344,75320,Garment and related pattern-maker and cutter
+841,345,75340,Upholsterer and related worker
+842,346,75361,Shoemaker
+843,,75362,Cobbler
+844,,75363,Leather goods maker/assembler
+845,,75369,Other shoemakers and related workers
+846,347,75390,"Garment and related trades worker n.e.c. (e.g. fellmonger, tent sewer, umbrella maker)"
+847,348,75410,Underwater diver
+848,349,75440,Fumigator and other pest and weed controller
+849,350,75490,Craft and related worker n.e.c.
+850,351,81000,Stationary plant and machine supervisor/general foreman
+851,352,81130,Well driller and borer and other mining related worker
+852,353,81140,Cement and other mineral products machine operator
+853,354,81210,"Metal melter, caster and rolling mill operator"
+854,355,81220,Metal heat treating plant operator
+855,356,81230,Metal drawer and extruder
+856,357,81240,"Metal finishing, plating and coating machine operator"
+857,358,81251,Metalworking machine setter-operator
+858,,81252,Precision grinding machine setter-operator
+859,,81259,Other machine-tool setter-operators
+860,359,81311,Chemical processing and products plant and machine operator
+861,,81312,Pharmaceutical products machine operator
+862,360,81320,Photographic products machine operator
+863,361,81390,"Chemical processing, chemical and photographic products plant and machine operator n.e.c."
+864,362,81410,Rubber products machine operator
+865,363,81420,Plastic products machine operator
+866,364,81430,Paper and paperboard products machine operator
+867,365,81501,Sewing machine operator
+868,,81502,"Laundry and dry cleaning worker (machine, non-household)"
+869,,81509,"Other textile, fur and leather products machine operators (e.g. shoemaking and related machine operators)"
+870,366,81601,Meat and fish products machine operator
+871,,81602,Dairy and confectionery products machine operator
+872,,81603,Baked and cereal products machine operator
+873,,81604,Brewer and wine and other beverages machine operator
+874,,81609,Other food and related products machine operators
+875,367,81700,Wood processing and papermaking plant operator
+876,368,81811,Glass/Ceramics kiln machine operator
+877,,81812,Fibreglass maker
+878,,81819,Other glass and ceramics plant operators
+879,369,81821,Boiler fireman
+880,,81822,Ship's oiler/greaser
+881,,81829,"Other steam turbine, boiler and engine operators"
+882,370,81830,Packing/Bottling/Labelling machine operator
+883,371,81841,Printing machine operator
+884,,81842,Bookbinding machine operator
+885,,81849,"Other printing, binding and related machine operators"
+886,372,81890,Stationary plant and machine operator n.e.c.
+887,373,82000,Supervisor/general foreman of assemblers and quality checkers
+888,374,82110,Mechanical equipment/component assembler
+889,375,82121,Electrical equipment/component assembler
+890,,82122,Electronic equipment/component assembler
+891,,82123,Battery assembler
+892,376,82131,Electrical/Electronic products quality checker and tester
+893,,82132,Mechanical products quality checker and tester
+894,,82139,Other quality checkers and testers
+895,377,82190,Assembler n.e.c.
+896,378,83000,Mobile machinery supervisor and general foreman
+897,379,83110,Train operator
+898,380,83121,Railway brakeman/signalman/shunter
+899,,83129,Other railway brakers and related workers
+900,381,83211,Motorcycle delivery man
+901,,83212,Delivery man using motorised personal mobility aids/devices
+902,382,83221,Taxi driver
+903,,83222,Chauffeur
+904,,83223,Van driver
+905,,83224,Ambulance driver
+906,,83225,Parking valet
+907,,83226,Private-hire car driver
+908,,83229,Other car and light goods vehicle drivers
+909,383,83311,Bus driver
+910,,83312,Tram driver
+911,384,83321,Lorry driver
+912,,83322,Trailer-truck driver (including prime mover driver)
+913,,83323,Concrete mix truck driver
+914,,83324,Waste truck driver (including hooklift trucks with roll-on containers)
+915,,83329,Other heavy truck and lorry drivers
+916,385,83421,Excavating/Trench digging machine operator
+917,,83422,Dredge operator
+918,,83423,Pile driver/Drilling machine operator
+919,,83424,Tunnelling machine operator (including pipe jacking machine operator)
+920,,83429,Other earth moving and related machinery operators
+921,386,83431,Crane/Hoist operator (excluding port)
+922,,83432,Crane operator (on-site)
+923,,83439,"Other crane, hoist and related equipment operators"
+924,387,83441,Fork lift truck operator
+925,,83449,Other lifting truck operators
+926,388,83491,Motorised sweeper operator
+927,,83492,Airport mobile equipment operator
+928,,83499,Mobile machinery operators n.e.c. (e.g. mobile farm plant operator)
+929,389,83501,Port limit helmsman/steersman/engine driver/tugmaster
+930,,83502,Deckhand (including lighterman)
+931,,83509,Other ships' deck crew and related workers
+932,390,91000,Cleaning supervisor
+933,391,91121,Housekeeping/Linen room attendant
+934,,91122,Hotel cleaner
+935,,91129,Other cleaners and helpers in hotels and related establishments
+936,392,91131,"Office, commercial and industrial establishments indoor cleaner"
+937,,91132,"Office, commercial and industrial establishments outdoor cleaner"
+938,,91133,"Office, commercial and industrial establishments multi-skilled cleaner cum machine operator"
+939,393,91151,Food and beverage establishments general cleaner
+940,,91152,Table-top cleaner
+941,,91153,Dishwasher
+942,,91154,Food and beverage establishments multi-skilled cleaner cum machine operator
+943,394,91161,Residential and open areas general cleaner
+944,,91162,Residential and open areas multi-skilled cleaner cum machine operator
+945,395,91210,Hand launderer/presser (non-household)
+946,396,91220,Motor vehicle cleaner/polisher
+947,397,91230,Window cleaner
+948,398,91291,Ship/Ship tank cleaner
+949,,91292,Aircraft cleaner
+950,,91293,"Railway carriage cleaner (include MRT, LRT and monorail)"
+951,,91299,Other cleaning workers n.e.c.
+952,399,91300,Domestic helper and cleaner
+953,400,92141,Tree worker/technician
+954,,92142,Landscape worker
+955,,92149,Other park and garden maintenance workers
+956,401,91290,Agricultural and fishery labourer and related worker n.e.c. (e.g. farm labourer)
+957,402,93100,Civil engineering/Building construction labourer
+958,403,93201,Hand packer
+959,,93209,Other manufacturing labourers and related workers (e.g. rubber sheets clipper and sorter)
+960,404,93310,Hand/Pedal vehicle driver
+961,405,93331,Stevedore
+962,,93332,Railway/Road vehicle loader
+963,,93333,Aircraft loader (e.g. airport baggage/cargo handler)
+964,,93334,Warehouse worker
+965,,93335,Vehicle attendant
+966,,93336,Mover
+967,,93337,Lashing worker
+968,,93339,Other material and freight handling workers
+969,406,94101,Kitchen assistant
+970,,94102,Food/Drink stall assistant
+971,,94103,Fast food preparer
+972,,94104,"Tea server/steward (excluding bartender, barista and food/drink stall assistant)"
+973,407,96000,"Waste collection, recycling and material recovery supervisor"
+974,408,96111,"General waste collection, recycling and material recovery worker"
+975,,96112,Waste recycling sorter
+976,,96113,"Greasy waste collection, recycling and material recovery worker"
+977,,96119,"Other waste collection, recycling and material recovery workers"
+978,409,96211,Bell captain
+979,,96212,Bellboy/Hotel porter
+980,,96213,Porter (except hotel)
+981,410,96251,Office/Library attendant
+982,,96252,Laboratory attendant
+983,,96253,Hospital/Clinic attendant
+984,,96254,Car park attendant
+985,,96255,"Sports and recreational attendant (e.g. golf marshal, golf caddie, fun fair attendant, bowling alley attendant, swimming pool attendant)"
+986,,96256,Bus attendant
+987,,96257,Restroom attendant
+988,,96259,Other attendants
+989,411,96261,Building caretaker/Watchman
+990,,96262,Doorman
+991,,96269,96269 Other watchmen and related workers (e.g. lighthouse keeper)
+992,412,96271,Chief concierge (hotel)
+993,,96272,Concierge (hotel)
+994,413,96291,Leaflet and newspaper distributor/deliverer
+995,,96292,Meter reader/Vending-machine collector
+996,,96293,Odd job person
+997,,96299,Other elementary workers n.e.c.

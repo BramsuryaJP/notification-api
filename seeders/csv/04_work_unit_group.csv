@@ -1,0 +1,414 @@
+id,minor_group_id,code,name
+1,1,1111,Legislators
+2,1,1112,Senior Government and Statutory Board Officials
+3,1,1114,Senior Officials of Political Party Organisations
+4,1,1115,"Senior Officials of Employers', Workers' and Other Economic-Interest Organisations"
+5,1,1116,Senior Officials of Humanitarian and Other Special-Interest Organisations
+6,2,1120,"Managing Directors, Chief Executives and General Managers"
+7,3,1211,Finance and Administration Managers
+8,3,1212,Human Resource Managers
+9,3,1213,Policy and Planning Managers
+10,3,1219,Business Services and Administration Managers Not Elsewhere Classified
+11,4,1221,"Sales, and Business Development Managers"
+12,4,1222,"Marketing, Advertising and Public Relations Managers"
+13,4,1223,Research and Development Managers
+14,4,1224,Customer Service and Call Centre Managers
+15,5,1310,Production Managers in Agriculture and Fisheries
+16,6,1321,Manufacturing Managers
+17,6,1323,Construction Managers
+18,6,1324,"Transport, Supply, Distribution and Related Managers"
+19,6,1329,Production and Operations Managers Not Elsewhere Classified
+20,7,1330,Information and Communications Technology Service Managers
+21,8,1341,Pre-school Education Managers
+22,8,1342,Health Services Managers
+23,8,1343,Aged Care Services Managers
+24,8,1344,Community and Social Service Managers
+25,8,1345,Education and Training Institution Managers
+26,8,1346,Financial and Insurance Services Managers
+27,8,1349,"Professional, Financial, Community and Social Services Managers Not Elsewhere Classified"
+28,9,1411,Hotel Operations and Lodging Services Managers
+29,9,1412,Food and Beverages Services Managers
+30,10,1420,Retail and Wholesale Trade Managers
+31,11,1431,Sports Centre Managers
+32,11,1432,Recreation Centre Managers
+33,11,1433,Arts and Cultural Centre Managers
+34,11,1439,Other Services Managers Not Elsewhere Classified
+35,12,2111,Physicists and Astronomers
+36,12,2112,Meteorologists
+37,12,2113,Chemists
+38,12,2114,"Geologists, Geophysicists and Other Physical Science Professionals"
+39,13,2121,"Mathematicians, Operations Research Analysts and Actuaries"
+40,13,2122,Statisticians and Data Scientists
+41,13,2123,"Other Statistical, Mathematical and Actuarial Professionals"
+42,14,2131,"Biologists, Botanists, Zoologists and Related Professionals"
+43,14,2132,"Farming, Forestry and Fishery Advisers"
+44,14,2133,Environmental Protection and Related Professionals
+45,14,2134,Pharmacologists and Related Professionals
+46,15,2141,Industrial and Production Engineers
+47,15,2142,Civil Engineers
+48,15,2143,Environmental Engineers
+49,15,2144,Mechanical Engineers (Excluding Transport and Vehicle Engineers)
+50,15,2145,Chemical Engineers
+51,15,2146,"Mining Engineers, Metallurgists and Related Professionals"
+52,15,2147,Transport and Vehicle Engineers
+53,15,2149,Engineering Professionals Not Elsewhere Classified
+54,16,2151,Electrical Engineers
+55,16,2152,Electronics Engineers
+56,16,2153,Telecommunications Engineers
+57,17,2161,Building Architects
+58,17,2162,Landscape Architects and Designers
+59,17,2163,Fashion and Product Designers
+60,17,2164,Urban and Related Planners
+61,17,2165,Surveyors and Cartographers
+62,17,2166,Graphic and Multimedia Designers and Artists
+63,17,2167,Service Designers
+64,18,2171,Ship Engineers and Related Professionals
+65,18,2172,Aircraft Pilots and Related Professionals
+66,19,2211,Generalist Medical Practitioners
+67,19,2212,Specialist Medical Practitioners (Medical)
+68,19,2213,Specialist Medical Practitioners (Surgical)
+69,19,2214,Specialist Medical Practitioners (Other Specialisations) - I
+70,19,2215,Specialist Medical Practitioners (Other Specialisations) - II (Con'td)
+71,20,2220,Nursing Professionals
+72,21,2230,Traditional and Complementary Medicine Professionals
+73,22,2250,Veterinarians
+74,23,2261,Dentists
+75,23,2262,Pharmacists
+76,23,2263,Environmental and Occupational Health and Hygiene Professionals
+77,23,2264,Physiotherapists
+78,23,2265,Dietitians and Nutritionists
+79,23,2266,Audiologists and Speech Therapists
+80,23,2267,Optometrists
+81,23,2268,Occupational Therapists
+82,23,2269,Other Health Professionals Not Elsewhere Classified
+83,24,2310,"University, Polytechnic and Higher Education Teachers"
+84,25,2320,Junior College and Pre-university Education Teachers
+85,26,2330,Vocational Education Teachers and Trainers
+86,27,2340,Secondary Education Teachers
+87,28,2350,Primary School Teachers
+88,29,2361,Education Methods Specialists
+89,29,2362,Special Education Teachers
+90,29,2369,Other Teaching Professionals Not Elsewhere Classified
+91,30,2411,Accountants
+92,30,2412,Financial and Investment Advisers
+93,30,2413,Financial Analysts and Related Professionals
+94,30,2414,Securities and Finance Dealers
+95,30,2415,Securities and Finance Brokers
+96,30,2416,Insurance Underwriters
+97,31,2421,Management and Business Consultants
+98,31,2422,Policy Administration Professionals
+99,31,2423,Human Resource Professionals
+100,31,2424,Training and Staff Development Professionals
+101,31,2425,Intellectual Property Professionals
+102,31,2429,Administration Professionals Not Elsewhere Classified
+103,32,2431,Advertising and Marketing Professionals
+104,32,2432,Public Relations Professionals
+105,32,2433,Specialised Goods Sales Professionals
+106,32,2435,Commodities and Freight Traders
+107,32,2436,Commodities and Ship Brokers
+108,33,2511,Systems Analysts
+109,33,2512,"Software, Web and Multimedia Developers"
+110,33,2514,Applications and Systems Programmers
+111,33,2515,Information and Communications Technology (ICT) Testing and Quality Assurance Professionals
+112,33,2519,Software and Applications Developers and Analysts Not Elsewhere Classified
+113,34,2521,Database Designers and Administrators
+114,34,2522,"Network, Servers and Computer Systems Administrators"
+115,34,2523,"Computer Network, Infrastructure and Platform Professionals"
+116,34,2524,Cybersecurity Professionals
+117,34,2529,Database and Network Professionals Not Elsewhere Classified
+118,35,2611,Lawyers
+119,35,2612,Judges
+120,35,2619,Legal Professionals Not Elsewhere Classified
+121,36,2621,"Archivists, Curators and Conservators"
+122,36,2622,Librarians and Related Information Professionals
+123,37,2631,Economists
+124,37,2632,"Sociologists, Anthropologists and Related Professionals"
+125,37,2633,"Historians, Political Scientists and Other Social Science Professionals"
+126,37,2634,Psychologists
+127,37,2635,Social Service Professionals
+128,37,2636,Religious Professionals
+129,37,2637,Counselling Professionals
+130,38,2641,Authors and Related Writers
+131,38,2642,Journalists
+132,38,2643,"Translators, Interpreters and Other Linguists"
+133,39,2651,Visual Artists
+134,39,2652,"Musicians, Composers and Singers"
+135,39,2653,Dancers and Choreographers
+136,39,2654,"Film, Stage and Related Directors and Producers"
+137,39,2655,Actors
+138,39,2656,Radio and Television Presenters and Related Professionals
+139,40,3100,Assistant Engineers
+140,41,3111,Chemical and Physical Science Technicians
+141,41,3112,Civil Engineering Technicians
+142,41,3113,Electrical Engineering Technicians
+143,41,3114,Electronics Engineering Technicians
+144,41,3115,Mechanical Engineering Technicians (Excluding Transport and Vehicle Engineering Technicians)
+145,41,3116,Chemical Engineering Technicians
+146,41,3117,Manufacturing Engineering Technicians
+147,41,3118,Draughtsmen
+148,42,3121,Transport and Vehicle Engineering Technicians
+149,42,3129,Physical and Engineering Science Technicians Not Elsewhere Classified
+150,43,3131,Power Generating Plant Operators
+151,43,3132,Incinerator and Water Treatment Plant and Related Machine Operators
+152,43,3133,Chemical Processing Plant Controllers
+153,43,3134,Petroleum and Natural Gas Refining Plant Operators
+154,43,3135,Metal Production Process Controllers
+155,43,3139,Process Control Technicians Not Elsewhere Classified
+156,44,3141,Life Science Technicians (Except Medical)
+157,44,3142,"Agronomy, Horticultural and Farming Technicians"
+158,45,3151,Ship Engineering Officers
+159,45,3152,Ships' Deck Officers and Pilots
+160,45,3154,Air Traffic Controllers
+161,45,3156,Sea Traffic Controllers
+162,45,3157,Transport Operations Supervisors
+163,45,3159,Transport Controllers and Related Workers Not Elsewhere Classified
+164,46,3160,Premises and Parks Officers
+165,47,3171,Building and Fire Inspectors
+166,47,3172,Quality and Safety Inspectors
+167,48,3211,Medical Imaging and Therapeutic Equipment Technicians
+168,48,3212,Medical and Pathology Laboratory Technicians
+169,48,3213,Pharmacy Technicians
+170,48,3214,Medical and Dental Prosthetic Technicians
+171,49,3220,Nursing Associate Professionals
+172,50,3230,Traditional and Complementary Medicine Associate Professionals
+173,51,3240,Veterinary Technicians and Assistants
+174,52,3251,Oral Health Therapists
+175,52,3253,Community Health Workers
+176,52,3254,Opticians
+177,52,3255,Physiotherapy Technicians and Related Associate Professionals
+178,52,3257,Environmental and Occupational Health Inspectors
+179,52,3259,Health Associate Professionals Not Elsewhere Classified
+180,53,3312,Credit and Loans Officers
+181,53,3313,Accounting Associate Professionals
+182,53,3315,Valuers and Loss Assessors
+183,54,3321,Insurance Representatives and Related Associate Professionals
+184,54,3322,Commercial and Marketing Sales Executives
+185,54,3323,Buyers and Purchasing Agents
+186,54,3329,Sales and Related Associate Professionals Not Elsewhere Classified
+187,55,3331,"Shipping, Clearing and Forwarding Agents"
+188,55,3332,Conference and Event Planners
+189,55,3333,Employment Agents and Labour Contractors
+190,55,3334,Real Estate Agents
+191,55,3339,Business Services Agents Not Elsewhere Classified
+192,56,3346,Logistics and Maintenance Planners
+193,56,3349,Administrative and Related Associate Professionals Not Elsewhere Classified
+194,57,3351,Customs and Immigration Officers
+195,57,3355,Police Inspectors
+196,57,3359,Government Associate Professionals Not Elsewhere Classified
+197,58,3361,Transport Equipment Project Executives
+198,59,3411,Legal Associate Professionals
+199,59,3412,Social Work Associate Professionals
+200,60,3421,Athletes and Sportsmen
+201,60,3422,"Sports Coaches, Instructors, Officials and Other Related Associate Professionals"
+202,61,3431,Photographers
+203,61,3432,Interior Designers and Decorators
+204,61,3433,"Gallery, Museum and Library Technicians"
+205,61,3434,Chefs
+206,61,3439,Artistic and Cultural Associate Professionals Not Elsewhere Classified
+207,62,3440,Creative and Performing Arts Associate Professionals
+208,63,3511,Computer Systems Operators
+209,63,3512,Computer Technicians
+210,63,3514,Website Administrators
+211,64,3521,Broadcasting Technicians and Audio-Visual Operators
+212,64,3522,Telecommunications Engineering Technicians
+213,64,3523,Telecommunications Equipment Operators
+214,64,3529,Optical and Electronic Equipment Operators Not Elsewhere Classified
+215,65,3610,Pre-Primary Education Teachers
+216,66,3260,Extracurriculum Instructors
+217,67,3691,Private Tutors
+218,67,3699,Teaching Associate Professionals Not Elsewhere Classified
+219,68,3991,Religious Associate Professionals
+220,69,4000,Clerical Supervisors
+221,70,4110,General Office Clerks
+222,71,4120,Secretaries and Verbatim Reporters
+223,72,4131,Typists and Word Processing Operators
+224,72,4132,Data Entry Clerks
+225,73,4211,Bank Tellers and Other Counter Clerks
+226,73,4213,Pawnbrokers and Moneylenders
+227,73,4214,Bill Collectors and Related Workers
+228,74,4221,Travel Agency and Related Clerks
+229,74,4223,Telephone Operators
+230,74,4224,"Receptionists, Customer Service and Information Clerks"
+231,74,4229,Client Information Clerks Not Elsewhere Classified
+232,75,4311,Accounting and Bookkeeping Clerks
+233,75,4312,Finance and Insurance Clerks
+234,75,4314,Statistical Clerks
+235,75,4315,Computer Operations Clerks
+236,76,4321,Stock Clerks
+237,76,4322,Production Clerks
+238,76,4323,Transport Clerks
+239,77,4411,Library Clerks
+240,77,4412,Mail Carriers and Sorting Workers
+241,77,4417,Legal Clerks
+242,77,4419,Clerical Support Workers Not Elsewhere Classified
+243,78,5111,Travel Attendants and Stewards
+244,78,5112,Transport Service Inspectors and Related Workers
+245,78,5113,Tour and Other Guides
+246,79,5120,Cooks
+247,80,5131,Waiters
+248,80,5132,Bartenders and Baristas
+249,80,5133,Bar/Lounge Hostesses
+250,80,5139,Waiters and Bartenders Not Elsewhere Classified
+251,81,5141,"Hairdressers, Barbers and Other Related Workers"
+252,81,5142,Beauticians and Related Workers
+253,81,5149,Wellness Related Workers Not Elsewhere Classified
+254,82,5150,Housekeepers and Related Workers
+255,83,5170,"Bookmakers, Croupiers and Related Gaming Workers"
+256,84,5191,"Astrologers, Fortune-tellers and Related Workers"
+257,84,5193,Undertakers and Embalmers
+258,84,5194,"Pet Groomers, Animal Keepers and Trainers"
+259,84,5195,Driving Instructors
+260,84,5199,Personal Service Workers Not Elsewhere Classified
+261,85,5211,Hawker/Stall Holders (Excluding Prepared Food or Drinks)
+262,85,5212,Hawker/Stall Holders (Prepared Food or Drinks)
+263,85,5213,Newsvendors
+264,85,5219,Stall Sales Workers Not Elsewhere Classified
+265,86,5220,Shop and Store Salespersons
+266,87,5230,Cashiers and Ticket Clerks
+267,88,5241,Fashion and Other Models
+268,88,5242,Sales Demonstrators and Door-to-Door Salespersons
+269,88,5244,Contact Centre Salespersons
+270,88,5249,Sales Workers Not Elsewhere Classified
+271,89,5311,Child Care and Related Workers
+272,89,5312,Teacher Aides
+273,90,5320,Healthcare Assistants and Other Personal Care Workers
+274,91,5411,Fire-Fighting and Rescue Officers
+275,91,5412,Police Officers
+276,91,5413,Prison Officers
+277,91,5414,Security Guards
+278,91,5415,Lifeguards
+279,91,5419,Protective Services and Related Workers Not Elsewhere Classified
+280,92,5900,Service Workers Not Elsewhere Classified
+281,93,6111,Vegetable Farm Workers
+282,93,6113,Gardeners; Horticultural and Nursery Growers
+283,94,6121,Livestock and Dairy Farm Workers
+284,94,6122,Poultry Farm Workers
+285,95,6190,Agricultural Workers Not Elsewhere Classified
+286,96,6221,Aquaculture Workers
+287,96,6222,Coastal Waters and Deep Sea Fishery Workers
+288,97,7100,Supervisors and General Foremen (Building and Related Trades)
+289,98,7112,Bricklayers and Related Workers
+290,98,7113,"Stone Cutters, Splitters, Carvers and Stonemasons"
+291,98,7114,"Concrete Placers, Concrete Finishers and Related Workers"
+292,98,7115,Carpenters and Joiners
+293,98,7119,Building Frame and Related Trades Workers Not Elsewhere Classified
+294,99,7121,Roofers
+295,99,7122,Floor Layers and Tile Setters
+296,99,7123,Plasterers
+297,99,7124,Insulation Workers
+298,99,7125,Glaziers
+299,99,7126,"Plumbers, Pipe Fitters and Related Workers"
+300,99,7127,Air-Conditioning and Refrigeration Mechanics
+301,99,7129,Building Finishers and Related Trades Workers Not Elsewhere Classified
+302,100,7131,Building Painters and Related Workers
+303,100,7132,"Spray Painters, Varnishers and Other Painters"
+304,100,7133,"Building Maintenance Workers, Building Structure Cleaners and Related Workers"
+305,101,7200,"Supervisors and General Foremen (Metal, Machinery and Related Trades)"
+306,102,7211,Metal Moulders and Coremakers
+307,102,7212,Welders and Flame Cutters
+308,102,7213,Sheet Metal Workers
+309,102,7214,Structural Metal Preparers and Erectors
+310,102,7215,Riggers and Cable Splicers
+311,103,7221,"Blacksmiths, Hammersmiths and Forging-Press Workers"
+312,103,7222,Toolmakers and Related Workers
+313,103,7224,"Metal Polishers, Wheel Grinders and Tool Sharpeners"
+314,104,7231,Automotive Mechanics
+315,104,7232,Aircraft Engine Mechanics and Repairers
+316,104,7233,Rolling Stock Mechanics
+317,104,7234,Bicycle and Related Repairers
+318,104,7235,Marine Engine Mechanics and Repairers
+319,104,7239,Other Machinery Mechanics and Repairers
+320,105,7300,"Supervisors and General Foremen (Precision, Handicraft, Printing and Related Trades)"
+321,106,7311,Precision Instrument Makers and Repairers
+322,106,7312,"Musical Instrument Makers, Repairers and Tuners"
+323,106,7313,Jewellery and Precious Metal Workers
+324,106,7314,Potters and Related Workers
+325,106,7315,"Glass Makers, Cutters, Grinders and Finishers"
+326,106,7316,"Sign Writers, Decorative Painters, Engravers and Etchers"
+327,107,7321,Pre-Press Trades Workers
+328,107,7322,Printers
+329,108,7400,Supervisors and General Foremen (Electrical and Electronic Trades)
+330,109,7411,Electricians
+331,109,7412,Electrical Mechanics and Fitters
+332,109,7413,Electrical Line Installers and Repairers
+333,110,7421,Electronics Mechanics and Servicers
+334,110,7422,Information and Communications Technology Installers and Servicers
+335,111,7500,"Supervisors and General Foremen (Food Processing, Woodworking, Garment, Leather and Related Trades)."
+336,112,7511,"Butchers, Fishmongers and Related Food Preparers"
+337,112,7512,"Bakers, Pastry and Confectionery Makers"
+338,112,7515,Food and Beverage Tasters and Graders
+339,112,7519,Food Processing and Related Trades Workers Not Elsewhere Classified
+340,113,7521,Wood Treaters
+341,113,7522,Cabinet Makers and Wood Related Trades Workers
+342,113,7529,Furniture Makers and Related Trades Workers Not Elsewhere Classified
+343,114,7531,Tailors/Dressmakers
+344,114,7532,Garment and Related Pattern-Makers and Cutters
+345,114,7534,Upholsterers and Related Workers
+346,114,7536,Shoemakers and Related Workers
+347,114,7539,Garment and Related Trades Workers Not Elsewhere Classified
+348,115,7541,Underwater Divers
+349,115,7544,Fumigator and Other Pest and Weed Controllers
+350,115,7549,Craft and Related Workers Not Elsewhere Classified
+351,116,8100,Stationary Plant and Machine Supervisors and General Foremen
+352,117,8113,Well Drillers and Borers and Other Mining Related Workers
+353,117,8114,Cement and Other Mineral Products Machine Operators
+354,118,8121,"Metal Melters, Casters and Rolling Mill Operators"
+355,118,8122,Metal Heat Treating Plant Operators
+356,118,8123,Metal Drawers and Extruders
+357,118,8124,"Metal Finishing, Plating and Coating Machine Operators"
+358,118,8125,Machine-Tool Setter-Operators
+359,119,8131,Chemical Processing and Products Plant and Machine Operators
+360,119,8132,Photographic Products Machine Operators
+361,119,8139,"Chemical Processing, Chemical and Photographic Products Plant and Machine Operators Not Elsewhere Classified"
+362,120,8141,Rubber Products Machine Operators
+363,120,8142,Plastic Products Machine Operators
+364,120,8143,Paper and Paperboard Products Machine Operators
+365,121,8150,"Textile, Fur and Leather Products Machine Operators"
+366,122,8160,Food and Related Products Machine Operators
+367,123,8170,Wood Processing and Papermaking Plant Operators
+368,124,8181,Glass and Ceramics Plant Operators
+369,124,8182,Steam Engine and Boiler Operators
+370,124,8183,"Packing, Bottling and Labelling Machine Operators"
+371,124,8184,"Printing, Binding and Related Machine Operators"
+372,124,8189,Stationary Plant and Machine Operators Not Elsewhere Classified
+373,125,8200,Supervisors and General Foremen of Assemblers and Quality Checkers
+374,126,8211,Mechanical Machinery Assemblers
+375,126,8212,Electrical and Electronic Equipment Assemblers
+376,126,8213,Quality Checkers and Testers
+377,126,8219,Assemblers Not Elsewhere Classified
+378,127,8300,Mobile Machinery Supervisors and General Foremen
+379,128,8311,Train Operators
+380,128,8312,Railway Brakers and Related Workers
+381,129,8321,Motorcycle (Including Motorised Personal Mobility Devices) Delivery Men
+382,129,8322,"Car, Taxi, Van and Light Goods Vehicle Drivers"
+383,130,8331,Bus and Tram Drivers
+384,130,8332,Heavy Truck and Lorry Drivers
+385,131,8342,Earth Moving and Related Machinery Operators
+386,131,8343,"Crane, Hoist and Related Equipment Operators"
+387,131,8344,Lifting Truck Operators
+388,131,8349,Mobile Machinery Operators Not Elsewhere Classified
+389,132,8350,Ships' Deck Crew and Related Workers
+390,133,9100,Cleaning Supervisors
+391,134,9112,Cleaners and Helpers in Hotels and Related Establishments
+392,134,9113,"Cleaners in Offices, Commercial and Industrial Establishments"
+393,134,9115,Cleaners in Food and Beverage Establishments
+394,134,9116,Cleaners in Residential and Open Areas
+395,135,9121,Hand Launderers and Pressers
+396,135,9122,Vehicle Cleaners
+397,135,9123,Window Cleaners
+398,135,9129,Cleaning Workers Not Elsewhere Classified
+399,136,9130,Domestic Helpers and Cleaners
+400,137,9214,"Park, Garden and Landscape Maintenance Workers"
+401,137,9129,"Agricultural, Fishery Labourers and Related Workers Not Elsewhere Classified"
+402,138,9310,Civil Engineering and Building Construction Labourers
+403,139,9320,Manufacturing Labourers and Related Workers
+404,140,9331,Hand and Pedal Vehicle Drivers
+405,140,9333,Material and Freight Handling Workers
+406,141,9410,Food Preparation and Kitchen Assistants
+407,142,9600,"Waste Collection, Recycling, and Material Recovery Supervisors"
+408,143,9611,"Waste Collection, Recycling and Material Recovery Workers"
+409,144,9621,Porters and Related Workers
+410,144,9625,Attendants
+411,144,9626,Watchmen and Related Workers
+412,144,9627,Concierge and Related Workers
+413,144,9629,Elementary Workers Not Elsewhere Classified
