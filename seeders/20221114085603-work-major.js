@@ -5,8 +5,8 @@ const csvtojson = require('csvtojson')
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
 	async up(queryInterface, Sequelize) {
-		const majorWorkCsv = './csv/01_wokr_major.csv'
-		let majorWork = csvtojson()
+		const majorWorkCsv = __dirname + '/csv/01_wokr_major.csv'
+		let majorWork = await csvtojson()
 			.fromFile(majorWorkCsv)
 			.then((jsonObj) => {
 				console.log(jsonObj)
