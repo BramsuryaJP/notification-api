@@ -1,4 +1,4 @@
-id,unitgroup_id,code,name
+id,unit_group_id,code,name
 1,1,11110,Legislator
 2,2,11121,Senior government official
 3,2,11122,Senior statutory board official
